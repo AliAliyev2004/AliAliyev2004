@@ -7,6 +7,11 @@
 - 🎯 My goal is to become a full-stack developer and contribute to innovative projects that make an impact.  
 - 🌟 In addition to technical skills, I value teamwork, problem-solving, and continuous learning.  
 
+# Welcome to My GitHub Profile!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ### 🛠 Languages and Tools:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
